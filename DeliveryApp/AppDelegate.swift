@@ -6,16 +6,26 @@
 //
 
 import UIKit
-
+import FirebaseCore
+import GoogleMaps
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
+    /// set orientations you want to be allowed in this property by default
+    var orientationLock = UIInterfaceOrientationMask.all
+    var window: UIWindow?
+    func application(_ application: UIApplication, supportedInterfaceOrientationsFor window: UIWindow?) -> UIInterfaceOrientationMask {
+            return self.orientationLock
+    }
+    
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        GMSServices.provideAPIKey("AIzaSyAF08CyABOmDLbrLB4o_7XQ-R2yyEsi5-I")
         // Override point for customization after application launch.
+        FirebaseApp.configure()
         return true
     }
+    
+    
 
     // MARK: UISceneSession Lifecycle
 
