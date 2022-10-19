@@ -45,7 +45,7 @@ Each user can log in to a customer account and place an order, or log in to a co
 
 
 ## Gifs:
-<img src="https://user-images.githubusercontent.com/68231208/196658452-b2e67186-b61d-498b-9338-21268ed852b7.gif" alt="drawing" width="200" hspace="10">
+<img src="https://user-images.githubusercontent.com/68231208/196662694-860163a4-7e0d-403a-a41e-281337b95425.gif" alt="drawing" width="200" hspace="10"><img src="https://user-images.githubusercontent.com/68231208/196665403-ce45b95e-4f74-4320-bd3b-42cfeb7ae9ee.gif" alt="drawing" width="200" hspace="10">
 
 ## Permissions 
 * Location access.
