@@ -20,7 +20,7 @@ Each user can log in to a customer account and place an order, or log in to a co
 * See your entire order history.
 
 ### Curier side:
-* Open Google Map Navigation With the route to the pickup address and destination address at the touch of a button
+* Open Google Map Navigation or Waze With the route to the pickup address and destination address at the touch of a button
 * Option to call the customer quickly and efficiently
 
 ## Screenshots:
@@ -50,6 +50,8 @@ Each user can log in to a customer account and place an order, or log in to a co
 <img src="https://user-images.githubusercontent.com/68231208/196665403-ce45b95e-4f74-4320-bd3b-42cfeb7ae9ee.gif" alt="drawing" width="200" hspace="10">
 &emsp;
 <img src="https://user-images.githubusercontent.com/68231208/196689648-bdd750c9-1397-481a-808f-1123e0a47f93.gif" alt="drawing" width="200">
+&emsp;
+<img src="https://user-images.githubusercontent.com/68231208/196706004-39a72466-fe62-474c-87ea-12684f9fbd18.gif" alt="drawing" width="200">
 &emsp;
 <img src="https://user-images.githubusercontent.com/68231208/196666079-a2a7a023-7d6d-41a1-b894-9af3a4f77965.gif" alt="drawing" width="650">
 
