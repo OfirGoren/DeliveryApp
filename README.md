@@ -3,8 +3,7 @@
 
 ## Description:
 
-Delivery App - The app is designed to provide a fast delivery service in Israel for packages up to 10 kilos. 
-Each user can log in to a customer account and place an order, or log in to a courier's account and take deliveries.
+DeliveryApp is designed to provide a fast delivery service in Israel for packages up to 10 kilos. Each user can log in to a customer account and place an order, or log in to a courier's account and take deliveries.
 
 
 
@@ -15,12 +14,12 @@ Each user can log in to a customer account and place an order, or log in to a co
 ## Highlight features:
 ### Customer side:
 
-* finds your location on the map and gives the exact address you are.
+* Finds your location on the map and gives the exact address you are.
 * Option to place an order for shipments large and small.
 * See your entire order history.
 
 ### Curier side:
-* Open Google Map Navigation or Waze With the route to the pickup address and destination address at the touch of a button
+* Open Google Map navigation or Waze With the route to the pickup address and destination address at the touch of a button
 * Option to call the customer quickly and efficiently
 
 ## Screenshots:
