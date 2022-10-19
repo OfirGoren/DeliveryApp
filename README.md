@@ -14,13 +14,13 @@ DeliveryApp is designed to provide a fast delivery service in Israel for package
 ## Highlight features:
 ### Customer side:
 
-* Finds your location on the map and gives the exact address you are.
+* Finds your location on the map and give the exact address for you.
 * Option to place an order for shipments large and small.
 * See your entire order history.
 
 ### Curier side:
-* Open Google Map navigation or Waze With the route to the pickup address and destination address at the touch of a button
-* Option to call the customer quickly and efficiently
+* Open Google Map navigation or Waze With the route to the pickup address and destination address at the touch of a button.
+* Option to call the customer quickly and efficiently.
 
 ## Screenshots:
 #### Customer side:
