@@ -25,7 +25,7 @@ Each user can log in to a customer account and place an order, or log in to a co
 
 ## Screenshots:
 #### Customer side:
-<img src="https://user-images.githubusercontent.com/68231208/196643842-8780e4f3-b682-49d2-8b9d-08a12be36a33.PNG" alt="drawing" width="200" hspace="10" /><img src="https://user-images.githubusercontent.com/68231208/196644824-c49c3e2c-6388-41b2-8c5b-4f4c5da49d4f.PNG" alt="drawing" width="200" hspace="10"> 
+<img src="https://user-images.githubusercontent.com/68231208/196643842-8780e4f3-b682-49d2-8b9d-08a12be36a33.PNG" alt="drawing" width="200" hspace="10"/><img src="https://user-images.githubusercontent.com/68231208/196644824-c49c3e2c-6388-41b2-8c5b-4f4c5da49d4f.PNG" alt="drawing" width="200" hspace="10"> 
 <img src="https://user-images.githubusercontent.com/68231208/196644196-530a1e1e-afd1-457e-90e0-23eb432c135b.PNG" alt="drawing" width="200" hspace="10">
 <img src="https://user-images.githubusercontent.com/68231208/196644601-d0555042-a123-4490-bb04-d6c996332e3f.PNG" alt="drawing" width="200" hspace="10">
 <img src="https://user-images.githubusercontent.com/68231208/196645198-3bfc936b-55b2-434a-b6a4-a66d1cf4ed5b.PNG" alt="drawing" width="200" hspace="10">
@@ -45,7 +45,14 @@ Each user can log in to a customer account and place an order, or log in to a co
 
 
 ## Gifs:
-<img src="https://user-images.githubusercontent.com/68231208/196662694-860163a4-7e0d-403a-a41e-281337b95425.gif" alt="drawing" width="200" hspace="10"><img src="https://user-images.githubusercontent.com/68231208/196665403-ce45b95e-4f74-4320-bd3b-42cfeb7ae9ee.gif" alt="drawing" width="200" hspace="10">
+
+<img src="https://user-images.githubusercontent.com/68231208/196662694-860163a4-7e0d-403a-a41e-281337b95425.gif" alt="drawing" width="200" hspace="10"/> &emsp;
+<img src="https://user-images.githubusercontent.com/68231208/196665403-ce45b95e-4f74-4320-bd3b-42cfeb7ae9ee.gif" alt="drawing" width="200" hspace="10">
+&emsp;
+<img src="https://user-images.githubusercontent.com/68231208/196689648-bdd750c9-1397-481a-808f-1123e0a47f93.gif" alt="drawing" width="200">
+&emsp;
+<img src="https://user-images.githubusercontent.com/68231208/196666079-a2a7a023-7d6d-41a1-b894-9af3a4f77965.gif" alt="drawing" width="650">
+
 
 ## Permissions 
 * Location access.
