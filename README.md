@@ -3,9 +3,10 @@
 
 ## Description:
 
-DeliveryApp is designed to provide a fast delivery service in Israel for packages up to 10 kilos. Each user can log in to a customer account and place an order, or log in to a courier's account and take deliveries.
+DeliveryApp is designed to provide a fast delivery service in Israel for packages up to 10 Kg. Each user can log in to a customer account and place an order, or log in to a courier's account and take deliveries.
 
 
+<img src="https://media.giphy.com/media/1g2JyW7p6mtZc6bOEY/giphy.gif" alt="drawing" width="300" hspace="10"/>
 
 
 
@@ -24,10 +25,8 @@ DeliveryApp is designed to provide a fast delivery service in Israel for package
 
 ## Screenshots:
 #### Customer side:
-<img src="https://user-images.githubusercontent.com/68231208/196643842-8780e4f3-b682-49d2-8b9d-08a12be36a33.PNG" alt="drawing" width="200" hspace="10"/><img src="https://user-images.githubusercontent.com/68231208/196644824-c49c3e2c-6388-41b2-8c5b-4f4c5da49d4f.PNG" alt="drawing" width="200" hspace="10"> 
-<img src="https://user-images.githubusercontent.com/68231208/196644196-530a1e1e-afd1-457e-90e0-23eb432c135b.PNG" alt="drawing" width="200" hspace="10">
+<img src="https://user-images.githubusercontent.com/68231208/196643842-8780e4f3-b682-49d2-8b9d-08a12be36a33.PNG" alt="drawing" width="200" hspace="10"/> <img src="https://user-images.githubusercontent.com/68231208/196644196-530a1e1e-afd1-457e-90e0-23eb432c135b.PNG" alt="drawing" width="200" hspace="10">
 <img src="https://user-images.githubusercontent.com/68231208/196644601-d0555042-a123-4490-bb04-d6c996332e3f.PNG" alt="drawing" width="200" hspace="10">
-<img src="https://user-images.githubusercontent.com/68231208/196645198-3bfc936b-55b2-434a-b6a4-a66d1cf4ed5b.PNG" alt="drawing" width="200" hspace="10">
 <img src="https://user-images.githubusercontent.com/68231208/196644923-3ac973d0-7e9a-47f1-8877-e05c7427e091.PNG" alt="drawing" width="200" hspace="10">
 <img src="https://user-images.githubusercontent.com/68231208/196646089-0c516b39-6399-496b-b8cf-0225dc0e6acf.PNG" alt="drawing" width="200" hspace="10">
 <img src="https://user-images.githubusercontent.com/68231208/196646297-b5cf56fa-704a-4847-b271-798207c5f4ae.PNG" alt="drawing" width="200" hspace="10">
